@@ -1,0 +1,1123 @@
+SEGA Games Co., Ltd.
+Sonic Team
+
+Producer
+Shun Nakamura
+Sonic Series Producer
+Takashi Iizuka
+Director & Lead Game Designer
+Morio Kishimoto
+Art Director
+Yoshitaka Miura
+Lead Programmer
+Hiroki Tokunaga
+Lead Planner
+Takayuki Okada
+Planners
+Atsushi Kusama
+Takeshi Endo
+Masashi Kanda
+Lead Level Designer
+Jyunpei Ootsu
+Level Designers
+Shoko Kamiya
+Yuya Setogawa
+Writers, Japanese Story and Script
+Eitaro Toyoda
+Field Artists
+Yuki Takahashi
+Daizo Kinoshita
+Hisae Jibiki
+Machiko Koizumi
+Keiji Takeda
+Naohiro Tsuchiya
+Yuko Furumoto
+Masatoshi Yasumura
+Takahiro Suzuki
+Takayuki Nagashima
+Hiroshi Kanazawa
+Hiroyuki Yohda
+Kyohei Terui
+Keiji Kojima
+Character Artists
+Shinkichi Tanahashi
+Yoshinari Amaike
+Hitomi Nagao
+Ryohei Yanase
+Shinji Matsuura
+Tomoko Arikawa
+Character Animators
+Hiroyuki Abe
+Ko Ishitoya
+Visual Effects Artist
+Chihiro Yamamoto
+Menu/Hud Artists
+Yusuke Ikeda
+Haruka Yoshida
+Maiko Kobayashi
+Cut Scene Artists
+Tamotsu Kushibe
+Masashi Fukumitsu
+Koichi Shibuya
+Koji Ooki
+Takeshi Kanda
+Motohiro Fukui
+Technical Artist
+Yusuke Kashiwagi
+Zenzy Made by Masaki Miyashita
+Title Logo Design
+Taro Hino
+Web Design
+Yuichi Kikuchi
+Sonic Character Supervisor
+Yuji Uekawa
+Senior Art Director
+Sachiko Kawamura
+Gameplay Programmers
+Naoto Ogawa
+Kentaro Oyama
+Hiroshi Arai
+Tetsu Umezawa
+Yuzou Hirata
+Kentarou Tomii
+Hiroaki Yanagisawa
+Takefumi Nakayama
+Hedgehog Engine Programmers
+Yoshitaka Kawabata
+Outa Sano
+Koji Ogino
+Takahiro Nagata
+Keiichi Noda
+Takateru Ohyama
+Takahiro Sekiguchi
+Naoko Shimura
+Mitsuki Kagawa
+Hiroshi Inokuwa
+Fumihiro Narita
+Shigeki Kaneko
+Takashi Kuboki
+Motoyoshi Sato
+Hardlight
+PC Port
+Lubomír Baran
+Michael Duwé
+Neall Jones
+Ashley Khan
+Rich Jones
+Louis McLaughlin
+Rob Ruck
+Chris Southall
+Gordon Theobald
+Additional programmers
+David Amer
+Terry Goodwin
+Carlos Jorge Ramalhao
+Havok
+'SONIC FORCES' uses havok®: ©Copyright 1999-2017. havok.com Inc. (or its licensors). All Rights Reserved. see www.havok.com for details.
+
+Simplygon
+Uses Simplygon™, ©2017 Donya™ Labs AB.
+
+Sega (Shanghai) Software Co.,Ltd.
+Supervisor
+Makoto Uchida
+Technical Support
+Katsunori Kosuge
+Coordinators
+Chen Yunhua
+Xia Shixin
+Designers
+Jiang Huixian
+Chen Wei
+Sheng Hongjie
+Lu Wei
+Li Muzhang
+Graphinica,INC
+Animation Supervisor
+Tomoaki Kaneko
+Character Lead Artist
+Kentaroh Honma
+Character Animators
+Kouji Ichikawa
+Naoki Ogita
+Natsumi Kondo
+Midori Nakano
+Kanako Yabuki
+Takahiro Shima
+CG Supervisor
+Hiroki Yoshioka
+CG Coordinator
+Keitaro Shirahama
+Rayline Studio Inc.
+Director
+Satoru Goto
+Designer
+Kazuyoshi Watanabe
+Producer
+Taizo Hiramoto
+Switch entertainment Inc.
+Planner
+Hajime Tsuchiyama
+Gameplay Programmer
+Masashi Yamane
+Siqmi Inc.
+Planners
+Taro Kato
+Susumu Nakamoto
+Visual Effects Artist
+Takahiro Nishino
+Marza Animation Planet Inc.
+Movie Directors
+Takashi Nakashima
+Satoshi Takahashi
+Modeling Artist
+Yoshihiro Hanada
+Rigging Artist
+Miguel Campos
+Animators
+Shinichi Nakaguma
+Masato Ui
+FX Artists
+Takio Koizumi
+Hiroyuki Ninomiya
+Yusuke Tani
+Lighting Composite Artists
+Hiroyuki Yagi
+Naoto Kawaguchi
+Engineer
+Takamasa Matsunari
+Production Manager
+Yuji Sato
+Movie Producer
+Akira Ito
+Zinou Pharmaceutics,Inc
+Lead Animator
+Miura
+Animators
+Yutaka Iwama
+Haruka Kikuchi
+Rigging Artist
+Takahiro Nowatari
+Animation Director / CG Producer
+Koichi Nobuta
+Photonarts Inc.
+CG Supervisor
+Yuki Kamada
+Modeling Supervisors
+Ken Yuasa
+Yoshio Yamakawa
+Environment Modeling Supervisor
+Takuya Suzuki
+FX Supervisor
+Shohei Keitoku
+Lighting Composite Artists
+Yukihiro Negishi
+Kenichiro Nishida
+Udit Gupta
+Miya Kato
+Modeling Artists
+Seiya Sasaki
+Akira Inamori
+Elizaveta Kozyreva
+Miyoko Oka
+Environment Modeling Artists
+Maika Nagaoka
+Koichi Asano
+Mai Tanigaki
+Satomi Nakahara
+Shinya Ishii
+FX Artist
+Yusuke Inoue
+Production Manager
+Kenji Sasaki
+Line Producer
+Taiyo Yamamoto
+CG Producers
+Takuji Yasuda
+Koichi Asano
+Mai Tanigaki
+Satomi Nakahara
+Shinya Ishii
+Writers, Story and Script
+Makoto Goya
+Writers, English Story and Script
+Ken Pontac
+Warren Graff
+Hit Detection, LLC Consulting
+VGMarket
+Playtest Services
+Alex Metzroth
+Alan Chu
+Sound Director & Lead Music Composer
+Tomoya Ohtani
+Additional Composers
+Naofumi Hataya
+Kenichi Tokoi
+Cutscene Music Composer & Arranger
+Takahito Eguchi
+Additional Arranger
+Yutaka Minobe (delfisound, inc)
+Sound Effects
+Tomonori Sawada
+Cutscene Sound Editors
+Eiji Nakamura (Sound Racer Ltd.)
+Chiharu Minekawa (Sound Racer Ltd.)
+Additional Dialogue Editor
+Tatsuyuki Maeda
+Foley Recording Studio
+TOEI Digital Center
+Avatar Music Lyrics
+Kurt Jessen (Arriba Entertainment Inc.)
+Jun Neki (Arriba Entertainment Inc.)
+Recording Engineers
+Matt Wallace
+Shigeo Sakurai (ONKIO HAUS)
+Tyler Smyth (Dangerkids)
+Yoshitada Miya
+Assistant Engineers
+Takeshi Nemoto (Sound City Studio)
+Taisuke Uchino (ONKIO HAUS)
+Sayaka Ogoshi (Studio Mech)
+Recording Studios
+Audissi Studios
+ONKIO HAUS
+Sound Crew Studio
+Studio Delux (Sound City Center)
+SEGA Digital Studio
+Studio Mech
+Recording Coordinators
+Kazuyuki Doki (Re-Birth)
+Kurt Jessen (Arriba Entertainment Inc.)
+Jun Neki (Arriba Entertainment Inc.)
+Richard Jacques
+Jun Senoue
+Mastering Engineer
+Wataru Ishii (ONKIO HAUS)
+Musicians
+Avatar Vocals
+B-Bandji
+Claudia Vazquez
+Jon Underdown
+Nana Hatori
+Madeleine Wood
+Strings
+Muroya Strings
+Piano
+Koji Igarashi
+Guitars
+Susumu Nishikawa
+Guitars (Infinite related songs)
+Jun Senoue
+Bass
+Akinori Yamada
+Drums
+MASUO
+Orchestral Session
+Performed by The LONDON SYMPHONY ORCHESTRA
+Composed by
+Tomoya Ohtani
+Takahito Eguchi
+Orchestrated & Arranged by
+Takahito Eguchi
+Conducted by
+Lee Reynolds
+Recording Studio
+AIR Studios - Lyndhurst Hall
+Recording Engineer
+Geoff Foster
+Studio Manager
+Alison Burton
+Mixing Engineer
+Toshiyuki Yoshida
+Mixing Studio
+Sound City Studio
+Executive Production Manager
+Daniel Monteverde (Arriba Entertainment Inc.)
+Production Manager
+Kurt Jessen (Arriba Entertainment Inc.)
+Assistant Production Manager
+Jun Neki (Arriba Entertainment Inc.)
+Music Preparation
+Nicolas Alvarez (Arriba Entertainment Inc.)
+Interpreter/Translator
+Kozue Etsuzen (Paw Communications)
+The LONDON SYMPHONY ORCHESTRA
+First Violins
+Yuri Torchinsky, Guest Leader
+Lennox Mackenzie
+Clare Duckworth
+Ginette Decuyper
+Gerald Gregory
+Maxine Kwok-Adams
+Claire Parfitt
+Laurent Quenelle
+Harriet Rayfield
+Colin Renwick
+Sylvain Vasseur
+Rhys Watkins
+Second Violins
+Sarah Quinn
+Miya Vaisanen
+Matthew Gardner
+Julian Gil Rodriguez
+Naoko Keatley
+Belinda McFarlane
+Iwona Muszynska
+Andrew Pollock
+Hazel Mulligan
+Gabrielle Painter
+Violas
+Edward Vanderspar
+Gillianne Haddow
+Robert Turner
+Jonathan Welch
+Caroline O'Neill
+Felicity Matthews
+Alistair Scahill
+Samuel Burstin
+Cellos
+Tim Hugh
+Alastair Blayden
+Jennifer Brown
+Noel Bradshaw
+Daniel Gardner
+Hilary Jones
+Double Basses
+Colin Paris
+Patrick Laurence
+Matthew Gibson
+Thomas Goodman
+Flutes
+Gareth Davies
+Sophie Johnson
+Piccolo
+Sharon Williams
+Oboes
+Gordon Hunt
+Daniel Finney
+Clarinets
+Chris Richards
+Chi-Yu Mo
+Bassoons
+Daniel Jemison
+Dominic Morgan
+Horns
+Timothy Jones
+Angela Barnes
+Alexander Edmundson
+Jason Koczur
+Trumpets
+Jason Evans
+Gerald Ruddock
+Paul Mayes
+Trombones
+Dudley Bright
+Byron Fulcher
+Bass Trombone
+Paul Milner
+Tuba
+Peter Smith
+Sound Special Thanks
+Yukifumi Makino (delfisound, inc.)
+Miki Kashiwagi (Smash Room)
+Yumi Mashiki (Arriba Entertainment Inc.)
+Haruyoshi Tomita
+Main Vocal Themes
+Fist Bump
+Vocals & Lyrics by Douglas Robb (Hoobastank)
+Composed & Arranged by Tomoya Ohtani
+Strings Arranged by Takahito Eguchi
+
+Infinite
+Raps by Tyler Smyth (Dangerkids)
+All Vocals & Lyrics by Tyler Smyth & Andy Bane (Dangerkids)
+Composed & Arranged by Tomoya Ohtani
+
+The Light of Hope
+Vocals by Amy Hannam
+Written by Tomoya Ohtani
+English Lyrics adapted by Kurt Jessen (Arriba Entertainment Inc.)
+Arranged by Takahito Eguchi
+
+Japanese Character Voices
+Jun-ichi Kanemaru
+Ryo Hirohashi
+Nobutoshi Canna
+Taeko Kawata
+Rumi Ochiai
+Taiten Kusunoki
+Koji Yusa
+Kenta Miyake
+Yoko Teppozuka
+Yuki Masuda
+Daisuke Ono
+Koutarou Nakamura
+Mitsuo Iwata
+Wataru Takagi
+Takashi Kondo
+Jouji Nakata
+Aoi Yuki
+Yu Seki
+Hikaru Maruta
+Harou Yamagishi
+Minoru Kawai
+Momoko Tanechi
+Osamu Taira
+Riki Kagami
+Midori Egawa
+Fumihiko Tachiki
+Tohokushinsha
+Recording Producer
+Takuya Ohno
+Recording Director
+Keiichiro Miyoshi
+Recording
+Omnibus Japan Inc.
+English Character Voices
+Roger Craig Smith
+Mike Pollock
+Colleen O'Shaughnessey
+Travis Willingham
+Cindy Robinson
+Kirk Thornton
+Wally Wingert
+Keith Silverstein
+Karen Strassman
+Vic Mignogna
+Liam O'Brien
+Quinton Flynn
+Matthew Mercer
+Voice Director
+Jack Fletcher
+Voice Production by
+Studiopolis Inc.
+Recording Engineers
+Eric Lewis, CAS
+David Barr
+Recording Assistant
+Ashlee M.Murray
+Dialogue Editors
+Terry Reiff
+Arnie Geher
+Production Accountant
+Laura Lopez
+Line Producer
+L. Daniel LaBrune III
+French Character Voices
+Alexandre Gillet
+Marie-Eugénie Maréchal
+Sébastien Desjours
+Marc Bretonnière
+Patrick Borg
+Naïké Fauveau
+Benoît DuPac
+Marie Lenoir
+Hervé Grull
+Philippe Roullier
+Antoine Nouel
+Marie Giraudon
+Tony Marot
+Benjamin Pascal
+Luc Boulad
+French Voice Director
+Antoine Nouel
+Italian Character Voices
+Renato Novara
+Benedetta Ponticelli
+Maurizio Merluzzo
+Aldo Stella
+Andrea Bolognini
+Serena Clerici
+Claudio Moneta
+Jasmine Laurenti
+Davide Albano
+Diego Sabre
+Silvio Pandolfi
+Emanuela Pacotto
+Massimo Di Benedetto
+Luca Sandri
+Gianni Gaude
+Marco Pagani
+Italian Voice Director
+Alice Bongiorni
+German Character Voices
+Marc Stachel
+Anke Kortemeier
+Claus-Peter Damitz
+Hartmut Neugebauer
+Mario Hassert
+Shandra Schadt
+Klaus Lochthove
+Marianne Graffam
+Roland Wolf
+Andi Krösing
+Andreas Hofer
+Luisa Wietzorek
+Romanus Fuhrmann
+Matthias Horn
+German Voice Director
+Michael Hülsmann
+Spanish Character Voices
+Ángel de Gracia
+Graciela Molina
+Sergio Mesa
+Francesc Belda
+Jordi Salas
+Meritxell Ribera
+Manuel Gimeno
+Ana Vidal
+Masumi Mutsuda
+Alfonso Vallés
+Dani Albiac
+Alberto Vilar
+Xadi Mouslemeni Mateu
+Miguel Ángel Jenner
+Spanish Voice Director
+Guillermo Reinlein
+Localization Support
+Tatsuyuki Miyazaki
+Tatsuya Shikata
+Shintaro Tanioka
+Takuma Hatori
+Emi Yamane
+Takuya Kishimoto
+Kohei Kondo
+Sales
+Akira Nomoto
+Toru Yasuda
+Toshiyuki Tanaka
+Yuichiro Shimada
+Keigo Endo
+Shinya Oosaki
+Tomoaki Ishidao
+Keigo Kimura
+Daiki Tanaka
+Katsutoshi Memezawa
+Tokuro Mishina
+Teruyuki Awaji
+Masahiro Tanaka
+Tomohiko Hayashi
+Yoshihito Endo
+Nagayuki Nou
+Taku Takeuchi
+Field Crew Service Co., Ltd.
+Sales Support
+Takashi Kabasawa
+Youko Oda
+Toyota Tokoro
+Sales Planning
+Mitsuru Takahashi
+Nobuhiro Tanaka
+Nobuaki Sone
+Tomiaki Fujita
+Merchandise Planning
+Yasunobu Masahiro
+Aiko Matsuda
+Eishin Miura
+Shuto Kobayashi
+Marketing
+Toyohisa Hiwatari
+Satoshi Imai
+Sho Nanmoku
+Promotion
+Takayoshi Ohuchi
+Koji Uemura
+Natsuki Sato
+Risa Araki
+Ruiko Miyamoto
+Ikuo Ishizaka
+First Party Managers
+Tetsuo Sasaki
+Chiaki Furuya
+PR
+Mamoru Kodama
+Yuko Yasuda
+Teruyuki Kaida
+Rei Kawasaki
+Akane Inoue
+Executive Marketing Supervisor
+Hiroyuki Miyazaki
+Asia Business Dept.
+Go Saito
+Shintaro Tanioka
+Takako Takusagawa
+Quan Yang
+Takeyuki Iso
+Kenji Sonobe
+Hiroshi Seno
+Takuji Konuma
+Kenta Ueno
+Yosuke Okunari
+Takafumi Osaka
+Yui Funakoshi
+Ryuta Sakamoto
+Package & Manual Production
+Yoshihiro Sakuta
+Hiroki Osawa
+Makoto Nishino
+Takuya Hamamoto
+Minako Toda
+Product Test
+Takashi Shoji
+Akira Nishikawa
+Osamu Sato
+Tomoki Matsuura
+Atsushi Hirano
+Koji Yamashita
+Kazuya Adachi
+Daichi Sasaki
+Shingo Fukui
+Kazuya Miyazaki
+Tomoe Kuriyama
+Ryota Asano
+Jun Imamura
+Mitsuhiro Oishi
+Jiro Kimura
+Kiyoshi Saito
+Masaru Sugita
+Takehiro Sekiya
+Hirokazu Takayasu
+Tomonori Natsume
+Masahiro Matsuno
+Hitoshi Wakata
+Quality Assurance
+Tomoki Kaji
+Kazuhiko Morii
+Yasuyuki Hattori
+Yuji Nakamura
+Shunya Shimizu
+SEGA of America, Inc.
+Corporate Management CEO & COO
+Tatsuyuki Miyazaki
+EVP of Publishing and Strategic Planning
+Yusuke Suai
+SVP of Publishing
+Naoto Hiraoka
+Product Development VP of PD and Creative Services
+Takashi Iizuka
+Director of Product Development
+Austin Keys
+Producer
+Miki Takahashi
+Publishing SVP/Pillar Head
+Ivo Gerscovich
+VP Sales and Marketing
+Tim Pivnicny
+SR.Marketing Manager
+Ari Sapriel
+PR Manager
+Edith Yang
+Associate Brand Manager
+Nathan Shabazi
+Community Manager
+Aaron Webber
+Community Coordinator
+Sergio Montealegre
+Licensing Director
+Anoulay Tsai
+SR.Licensed Product Manager
+Sandra Jo
+Licensing Specialist
+Michael Cisneros
+Licensed Product Coordinator
+Mai Kiyotaki
+Director of Creative
+Kazuyuki Hoshino
+SR.Graphic Manager
+Jimmy Lenoir
+Director of Legal
+Cindy Lin
+Legal Counsel
+Wendy Wang
+Human Resources Manager
+Maria Lopera
+Human Resources Assistant
+Nicole Hall
+Director of Business Planning
+Kenya Numata
+Sales Administration Manager
+Nathan Harris
+Sales Manager
+Danny Miscevich
+Sales Administrator
+Connie Chinn
+Financial Analyst
+Hajime Sugino
+SR.Systems Administrator
+Bryan Kuhl
+IT Administrator
+Brian Quach
+Atlus U.S.A., Inc.
+VP of Production
+Bill Alexander
+Senior Localization Producer
+Sam Mullen
+QA Manager
+Carl Chen
+Asst. QA Manager QA Lead
+Scott Williams
+QA Compliance Specialist
+Rob Stone
+Quality Assurance
+Christopher Johnson
+Joan Kim
+Danny Le
+Darryl Le
+Jason Osborne
+Kazumasa Suzuki
+Director of Marketing
+Robyn Mukai Koshi
+Product Marketing Specialist
+Sara Chan
+Manager of Creative Services
+Ayami Haruno
+Graphic Designer
+Amy Shimoshige
+Events & Purchasing Manager
+Kathy D. Park
+QA Service by Pole To Win International
+Kasturi Rangan
+Veerandra Naik
+Abhilash KS
+Mahesh Naik
+Ankit Mohanty
+Sijo Jose
+English Localization by Inbound Games
+SEGA Europe Ltd.
+COO
+Jurgen Post
+CFO
+John Ward
+SVP of Strategy, Development Services & Brand Licensing, Business Planning
+Martin Servante
+Head of Studio Localisation and ESD
+Charlie Harris
+Producer
+Teppei Otsuka
+Head of Program Office
+Mark Le Breton
+Submission Manager
+Mike Veness
+Process & TCM Manager
+Ben Howell
+Senior SDET
+Mindaugas Batutis
+Junior SDET
+Gordon McKendrick
+Head of QA & Localisation
+Ghulam Khan
+Production Manager
+Adrian Daly
+Project Lead
+Owen Hewitt
+Resource Manager
+Ben Jackson
+Training and Recruitment Supervisor
+Julie Meltior
+Localisation Manager
+Marta Lois González
+Localisation Project Supervisor
+Antonella Marras
+Lead Translators
+Luis J. Paredes
+Nicole Thomer
+Jesús Álvarez
+Translators
+Chiara Canu
+Gwladys Gaye
+Giulia Checchi
+Giuseppe Rosa
+Sebastián Salguero
+Martin Schmalz
+Alexia Trensch
+Sarah Breton
+Enrico Sette
+Localisation QA Supervisor
+Ruggero Varisco
+Localisation QA Team Lead
+Pedro Ortega
+Localisation QA Testers
+Giorgio Gurgone
+Robert Kaczmarek
+Sooyong Lee
+Lola Martelli
+Tom Schwenkenberg
+Jose Torres
+Functional QA Team Leads
+David Jenkins
+Gerson De Sousa
+Functional QA Senior Tester
+Marta Baquero
+Functional QA Testers
+Dumitru Garofil
+Julian Carlson
+Kyle Deane
+Abigail Flores
+Mastering & Equipment Manager
+Francesco Fraulo
+Equipment & Shift Coordinator
+Tony Langan
+Mastering & Build Engineer
+Shaun Young
+Equipment & Mastering Coordinator
+Danny Florey
+Assistant Mastering Technician
+Ashar Dubois
+Administration and Finance Coordinator
+Chris Bien
+Development Service Administrator
+Chris Geiles
+Customer Service Manager
+John White
+Marketing, PR and Cooms Marketing Director
+Anna Downing
+Senior Product Managers
+Ben Walker
+Tim Breach
+Lewis Herbert
+Senior Marketing Manager, Americas
+Alfonso Cubias
+Brand Manager
+Derek Seklecki
+Marketing Manager
+Reena Sood
+Product Manager
+James Dyer
+Head of PR
+Peter Oliver
+PR Manager
+Sarah Head
+PR Manager, Americas
+Erica Denning
+Product Marketing & PR Assistant
+Kerry Barrett
+Creative Services
+Head of Creative Services
+Jeff Webber
+Traffic Manager
+Samra Halli
+Creative Team Manager
+Noud Tempelaere
+Senior Creative Desinger
+Ranj Vekaria
+Creative Artworker
+James Kent
+Video Suite Manager
+Elliot Kidner
+Video Suite Editor
+Chris Bailey
+Video Suite Assistant
+Una Marzorati
+Searchlight
+SVP, Commercial Publishing
+John Clark
+Content Director
+Dean Trotman
+Head of Brand
+Rowan Tafler
+Senior Content Manager
+Bobby Wertheim
+Commercial Publishing VP, Digital Business
+James Schall
+Business Development Directors
+Peter Chan
+Stephane Bonazza
+Technical Director
+Steve Sharp
+EMEA Sales Director
+Alison Gould
+Head of EMEA Sales
+Simon Inch
+EMEA Sales Account Manager
+Stephanie Olbe
+Senior Business Manager
+Anh Luong
+Junior Digital Account Manager
+Charlotte Rouget-Murphy
+Digital Distribution Assistant
+Megan Garett
+Senior Business Analyst
+Jarvis Crofts
+Business Analysts
+Filippo Mingione
+Pedro Gonzalez
+Product Launch Manager
+James Gourlay
+Product Launch Assistant
+Clinton Allman
+Marketing Assistant
+Zamir Bandali
+Business Planning
+SVP, Business Planning
+Katsuhiro Ichinose
+Director of Business Analysis
+Jean-Yves Lapasset
+Publishing Project Manager
+Ryoko Nakao
+Senior Business Planning Analyst
+Yoshiko Mukaiyama
+Business Planning Co-ordinator
+Takashi Nakaya
+Business Analyst
+Matthew Hodgson
+Junior Business Analyst
+Samuel Riches
+European Research Manager
+Lucy Peaple
+European Research Executive
+Douglas Owusu
+European Research Assistant
+Daniel Vincent
+Operations
+Head of Operations
+Natalie Cooke
+Linda Kershaw
+Operations Co-ordinator
+Jacob Nixon
+Brand Licensing Director of Brand Licensing (EU)
+Jason Rice
+Senior Licensing Manager
+Toby Rayfield
+Retail Licensing Manager
+Kay Ferneyhough
+Product Development Manager
+Samuel Byard
+Licensing Co-ordinator
+Jason Goonery
+Junior Graphic Designer
+Paul Dunn
+Legal
+Director of Legal and Business Affairs
+Nicky Ormrod
+Head of Licensing
+Nivine Emeran
+Legal Counsels
+Daniel Finegold
+Ilan Pdahtzur
+Legal Executive
+Lola Okuboyejo
+Finance
+Finance Director
+Deepak Sharma
+Finance Controller
+Michael Riley
+Group Finance Manager
+Lenia Peros
+Finance Manager
+Paul Foley
+Credit Control Manager
+Pauline McDonagh
+Management Accountant
+Tac Hau
+Accounts Payable Supervisor
+Bradley Matthews
+Accounts Co-ordinator
+Sunil Kalotia
+Oracle Applications Support
+Luke Walker
+Oracle Finance Applications Support
+Richard Welch
+Online
+Head of Design & Development
+Nick McKenzie
+Lead Interactive Designer
+Sean Gallagher
+Junior Online Producer
+Scott Bone
+Senior Web Designer
+Marta Camilo
+IT
+Director of Technology
+Stuart Wright
+Head of Live Operations & Development
+Francis Hart
+Senior Systems Infrastructure Analyst
+Jide Agbalaya
+Network and Security Manager
+Kashif Iqbal
+Network and Securite Technicians
+Clinton Littlejohn
+Mohamed Bensakrane
+Linux Live Operations Engineer
+Borislav Velchev
+Project Manager
+Paul Leclercq
+Online Services Developer
+Navin Algoo
+Web Developer
+Rob Howard
+Data Architect
+Felix Baker
+Junior Data Developer
+Jagdeep Gosal
+IT Support Manager
+Luis de Mendonca
+Junior IT Support Technicians
+Bryan Mencias
+Stacy Lovage
+Live Operations Monitoring Lead
+Peter Hamilton
+Live Operations Monitoring Engineers
+Ricky Hetherington
+Fernando Azevedo
+Rikki Laffar
+Daniel Dixon
+Haren Patel
+HR
+Director of HR
+Ben Harrison
+HR Manager
+Eithne Metcalfe-Bliss
+Payroll & Benefits Manager
+Shilpa Pandya
+Talent Executive
+Ashleigh Meale
+HR Assistant
+Roseanna Jefferson
+Corporate
+Facilities Manager
+Aidan Bass
+Corporate Office Manager
+Lindsay Cox
+Receptionist
+Alexia Hudson
+Special Thanks
+Takeshi Yamazaki
+Jihoon Kim
+Tadashi Watanuki
+Yasushi Ogino
+Hiromasa Yoshida
+Haruyoshi Tomita
+Kenneth Lindenbaum
+Kitty Mach
+Laura Porat
+Lola Shiraishi
+Terri Watanabe
+Patrick Riley
+Our supportive and understanding friends and family
+
+Project Support
+Eigo Kasahara
+Tetsu Katano
+Nobuya Ohashi
+Takaharu Terada
+Hitoshi Furukubo
+Chika Kojitani
+Kazuhiro Matsuta
+Chief Producer
+Osamu Ohashi
+Executive Producers
+Haruki Satomi
+Kenji Matsubara
+Toshihiro Nagoshi
+©SEGA
+
+3DS FAN PORT
+
+Programming and Optimization
+SonicSlayer
+
+SoundTrack
+UtkaDudka
+
+THX 4 PLAYING
